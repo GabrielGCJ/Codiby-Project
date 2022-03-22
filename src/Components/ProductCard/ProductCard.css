@@ -1,0 +1,70 @@
+.card-component {
+    width: 300px;
+    height: 130px;
+    display: flex;
+    padding: 0 20px 20px 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-component > img {
+    width: 130px;
+    height: 100%;
+    border: 1px solid #cccccc;
+}
+
+.card-component .card-details {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px 0px 0px 20px;
+}
+
+.card-component .card-details > h3 {
+    margin: 5px 0 10px 0;
+}
+
+.card-component .card-details > p {
+    color: #afafaf;
+    font-weight: 600;
+}
+
+.card-component .card-details > p:last-child {
+    margin-top: 5ox;
+    font-size: 18px;
+    color: #000000;
+}
+
+@media (max-width: 400px) {
+    .card-component {
+        width: 310px;
+        height: 100px;
+        padding: 0 0 20px 20px;
+    }
+    
+    .card-component > img {
+        width: 100px;
+        height: 100%;
+    }
+
+    .card-component .card-details {
+        width: 180px;
+    }
+
+    .card-component .card-details > h3 {
+        width: 180px;
+        margin: 0 0 10px 0;
+        font-size: 14px;
+    }
+
+    .card-component .card-details > p {
+        font-size: 14px;
+    }
+    
+    .card-component .card-details > p:last-child {
+        font-size: 16px;
+        color: #000000;
+    }
+}
+
