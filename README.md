@@ -66,8 +66,11 @@ Rode o projeto:
 
 #### Tela de exibição do carrinho mais caro com a mensagem de frete grátis:
 
+
 ![image](https://user-images.githubusercontent.com/91347602/232898335-95dcf361-34c3-4a80-b2ba-ac07b193b36a.png)
 
+
 #### Versão mobile com responsividade, exibindo o funcionamento dos botões
+
 
 ![image](https://user-images.githubusercontent.com/91347602/232898756-d44017ba-4aee-470d-b5db-6dde819a7213.png)
