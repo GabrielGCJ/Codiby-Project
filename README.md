@@ -32,10 +32,11 @@
 #### - JavaScript
 
 ### Funcionalidades
-#### Botãos :
+#### Botãos:
 #### - Carrinho mais barato - Exibe o somatório abaixo de R$ 10,00 (sem mensagem de frete grátis)
 #### - Carrinho mais caro - Exibe o somatório acima de R$ 10,00 (exibindo a mensagem de frete grátis)
-
+#### Extra:
+#### - Animação dos botões e do bloco de exibição de frete gratis.
 ---
 
 ### Para rodar o projeto 
