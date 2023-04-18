@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/91347602/232899361-dd7c27e4-c5a9-41de-869b-4081e0c6ea09.png)
+
+
 # Carrinho - Projeto teste Codeby
 ### Objetivo:
 #### 
