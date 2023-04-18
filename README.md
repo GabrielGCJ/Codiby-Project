@@ -32,6 +32,7 @@
 #### Botãos :
 #### - Carrinho mais barato - Exibe o somatório abaixo de R$ 10,00 (sem mensagem de frete grátis)
 #### - Carrinho mais caro - Exibe o somatório acima de R$ 10,00 (exibindo a mensagem de frete grátis)
+
 ---
 
 ### Para rodar o projeto 
@@ -51,6 +52,8 @@ Instale o projeto:
 Rode o projeto:
 
 `npm run start`
+
+---
 
 ### Imagens do Projeto
 #### Tela de exibição o carrinho mais barato:
