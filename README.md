@@ -38,13 +38,12 @@
 
 Clone este repositório em sua máquina:
 
-$ git clone https://github.com/GabrielGCJ/Codeby-Project.git
+`git clone https://github.com/GabrielGCJ/codeby-project.git`
 
-cd Codeby-Project\projeto-carrinho\carrinho e rode:
+cd codeby-project
 
 npm install
 
-para iniciar:
 npm run start
 
 --- 
