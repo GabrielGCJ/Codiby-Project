@@ -1,7 +1,7 @@
+# Carrinho - Projeto teste Codeby
+
 ![image](https://user-images.githubusercontent.com/91347602/232899361-dd7c27e4-c5a9-41de-869b-4081e0c6ea09.png)
 
-
-# Carrinho - Projeto teste Codeby
 ### Objetivo:
 #### 
 
@@ -70,7 +70,7 @@ Rode o projeto:
 ![image](https://user-images.githubusercontent.com/91347602/232898335-95dcf361-34c3-4a80-b2ba-ac07b193b36a.png)
 
 
-### Versão mobile com responsividade, exibindo o funcionamento dos botões
+### Versão mobile com responsividade, exibindo o funcionamento dos botões:
 
 
 ![image](https://user-images.githubusercontent.com/91347602/232898756-d44017ba-4aee-470d-b5db-6dde819a7213.png)
