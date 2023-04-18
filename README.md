@@ -40,11 +40,14 @@ Clone este repositório em sua máquina:
 
 `git clone https://github.com/GabrielGCJ/codeby-project.git`
 
-cd codeby-project
+Entre na pasta do projeto:
 
-npm install
+`cd codeby-project`
 
-npm run start
+Instale o projeto:
 
---- 
+`npm install`
 
+Rode o projeto:
+
+`npm run start`
